@@ -1,0 +1,9 @@
+{
+  "name": "ui-standart",
+  "version": "1.0.0",
+  "description": "A set of ready-made blocks used everywhere",
+  "main": "index.js",
+  "repository": "https://github.com/hello-kozloff/ui-standart.git",
+  "author": "hello-kozloff",
+  "license": "MIT"
+}
